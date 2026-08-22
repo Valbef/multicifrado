@@ -1,5 +1,8 @@
 Sistema de cifrado desarroyado en Python usando la libreria cryptography.
 
+(If you're looking for the same thing in English, I called it textmultiencryption. 
+It's the same code, just translated into English.)
+
 Requisitos:
 
 python3

@@ -1,5 +1,7 @@
 Sistema de cifrado de texto desarroyado en Python usando la libreria cryptography.
 
+Funciona en Linux, Windows y Termux.
+
 (If you're looking for the same thing in English, I called it textmultiencryption. 
 It's the same code, just translated into English.)
 
@@ -9,7 +11,7 @@ python3
 pip3
 git
 
-
+===================================================
 instalacion Linux:
 
 1. instalar "cryptography":
@@ -21,7 +23,7 @@ git clone https://github.com/Valbef/multicifrado.git
 
 Para usarlo:
 
-cd multicifrado/multicifrado
+cd multicifrado
 
 python3 multicifrado.py
 
@@ -37,7 +39,7 @@ git clone https://github.com/Valbef/multicifrado.git
 
 Para usarlo:
 
-cd multicifrado/multicifrado
+cd multicifrado
 
 python3 multicifrado.py
 

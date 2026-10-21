@@ -1,4 +1,4 @@
-Sistema de cifrado de texto desarroyado en Python usando la libreria cryptography.
+Sistema de encriptado de texto desarroyado en Python usando la libreria cryptography.
 
 Funciona en Linux, Windows y Termux.
 
@@ -42,6 +42,14 @@ Para usarlo:
 cd multicifrado
 
 python3 multicifrado.py
+
+===============================================
+
+Windows
+
+===============================================
+
+Descargar el archivo "Multiencriptado.exe" y ejecutarlo
 
 
 
